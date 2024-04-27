@@ -1,0 +1,1010 @@
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('dealer', 5, 0, 15, False)
+Action:
+hit
+New successor state:
+('dealer', 5, 0, 16, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('dealer', 5, 0, 14, False)
+Action:
+hit
+New successor state:
+('dealer', 5, 0, 15, False)
+('dealer', 5, 0, 16, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('dealer', 5, 0, 13, False)
+Action:
+hit
+New successor state:
+('dealer', 5, 0, 14, False)
+('dealer', 5, 0, 15, False)
+('dealer', 5, 0, 16, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('dealer', 5, 0, 12, False)
+Action:
+hit
+New successor state:
+('dealer', 5, 0, 13, False)
+('dealer', 5, 0, 14, False)
+('dealer', 5, 0, 15, False)
+('dealer', 5, 0, 16, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('dealer', 5, 0, 15, True)
+Action:
+hit
+New successor state:
+('dealer', 5, 0, 16, True)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('dealer', 5, 0, 12, False)
+('dealer', 5, 0, 13, False)
+('dealer', 5, 0, 14, False)
+('dealer', 5, 0, 15, False)
+----------------------------------------
+State:
+('dealer', 5, 0, 14, True)
+Action:
+hit
+New successor state:
+('dealer', 5, 0, 15, True)
+('dealer', 5, 0, 16, True)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('dealer', 5, 0, 12, False)
+('dealer', 5, 0, 13, False)
+('dealer', 5, 0, 14, False)
+----------------------------------------
+State:
+('dealer', 5, 0, 13, True)
+Action:
+hit
+New successor state:
+('dealer', 5, 0, 14, True)
+('dealer', 5, 0, 15, True)
+('dealer', 5, 0, 16, True)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('dealer', 5, 0, 12, False)
+('dealer', 5, 0, 13, False)
+----------------------------------------
+State:
+('dealer', 5, 0, 12, True)
+Action:
+hit
+New successor state:
+('dealer', 5, 0, 13, True)
+('dealer', 5, 0, 14, True)
+('dealer', 5, 0, 15, True)
+('dealer', 5, 0, 16, True)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('dealer', 5, 0, 12, False)
+----------------------------------------
+State:
+('player', 5, 0, 10, 0)
+Action:
+hit
+New successor state:
+('player', 16, True, 10, 0)
+('player', 7, 0, 10, 0)
+('player', 8, 0, 10, 0)
+('player', 9, 0, 10, 0)
+('player', 10, 0, 10, 0)
+('player', 11, 0, 10, 0)
+('player', 12, 0, 10, 0)
+('player', 13, 0, 10, 0)
+('player', 14, 0, 10, 0)
+('player', 15, 0, 10, 0)
+Action:
+stand
+New successor state:
+('dealer', 5, 0, 10, 0)
+----------------------------------------
+State:
+('dealer', 5, 0, 10, 0)
+Action:
+hit
+New successor state:
+('terminal', 0, False, 0, False)
+('dealer', 5, 0, 12, 0)
+('dealer', 5, 0, 13, 0)
+('dealer', 5, 0, 14, 0)
+('dealer', 5, 0, 15, 0)
+('dealer', 5, 0, 16, 0)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('player', 5, 0, 9, 0)
+Action:
+hit
+New successor state:
+('player', 16, True, 9, 0)
+('player', 7, 0, 9, 0)
+('player', 8, 0, 9, 0)
+('player', 9, 0, 9, 0)
+('player', 10, 0, 9, 0)
+('player', 11, 0, 9, 0)
+('player', 12, 0, 9, 0)
+('player', 13, 0, 9, 0)
+('player', 14, 0, 9, 0)
+('player', 15, 0, 9, 0)
+Action:
+stand
+New successor state:
+('dealer', 5, 0, 9, 0)
+----------------------------------------
+State:
+('dealer', 5, 0, 9, 0)
+Action:
+hit
+New successor state:
+('terminal', 0, False, 0, False)
+('dealer', 5, 0, 11, 0)
+('dealer', 5, 0, 12, 0)
+('dealer', 5, 0, 13, 0)
+('dealer', 5, 0, 14, 0)
+('dealer', 5, 0, 15, 0)
+('dealer', 5, 0, 16, 0)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('dealer', 5, 0, 11, 0)
+Action:
+hit
+New successor state:
+('dealer', 5, 0, 12, 0)
+('dealer', 5, 0, 13, 0)
+('dealer', 5, 0, 14, 0)
+('dealer', 5, 0, 15, 0)
+('dealer', 5, 0, 16, 0)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('player', 5, 0, 8, 0)
+Action:
+hit
+New successor state:
+('player', 16, True, 8, 0)
+('player', 7, 0, 8, 0)
+('player', 8, 0, 8, 0)
+('player', 9, 0, 8, 0)
+('player', 10, 0, 8, 0)
+('player', 11, 0, 8, 0)
+('player', 12, 0, 8, 0)
+('player', 13, 0, 8, 0)
+('player', 14, 0, 8, 0)
+('player', 15, 0, 8, 0)
+Action:
+stand
+New successor state:
+('dealer', 5, 0, 8, 0)
+----------------------------------------
+State:
+('dealer', 5, 0, 8, 0)
+Action:
+hit
+New successor state:
+('terminal', 0, False, 0, False)
+('dealer', 5, 0, 10, 0)
+('dealer', 5, 0, 11, 0)
+('dealer', 5, 0, 12, 0)
+('dealer', 5, 0, 13, 0)
+('dealer', 5, 0, 14, 0)
+('dealer', 5, 0, 15, 0)
+('dealer', 5, 0, 16, 0)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('player', 5, 0, 7, 0)
+Action:
+hit
+New successor state:
+('player', 16, True, 7, 0)
+('player', 7, 0, 7, 0)
+('player', 8, 0, 7, 0)
+('player', 9, 0, 7, 0)
+('player', 10, 0, 7, 0)
+('player', 11, 0, 7, 0)
+('player', 12, 0, 7, 0)
+('player', 13, 0, 7, 0)
+('player', 14, 0, 7, 0)
+('player', 15, 0, 7, 0)
+Action:
+stand
+New successor state:
+('dealer', 5, 0, 7, 0)
+----------------------------------------
+State:
+('dealer', 5, 0, 7, 0)
+Action:
+hit
+New successor state:
+('terminal', 0, False, 0, False)
+('dealer', 5, 0, 9, 0)
+('dealer', 5, 0, 10, 0)
+('dealer', 5, 0, 11, 0)
+('dealer', 5, 0, 12, 0)
+('dealer', 5, 0, 13, 0)
+('dealer', 5, 0, 14, 0)
+('dealer', 5, 0, 15, 0)
+('dealer', 5, 0, 16, 0)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('player', 5, 0, 6, 0)
+Action:
+hit
+New successor state:
+('player', 16, True, 6, 0)
+('player', 7, 0, 6, 0)
+('player', 8, 0, 6, 0)
+('player', 9, 0, 6, 0)
+('player', 10, 0, 6, 0)
+('player', 11, 0, 6, 0)
+('player', 12, 0, 6, 0)
+('player', 13, 0, 6, 0)
+('player', 14, 0, 6, 0)
+('player', 15, 0, 6, 0)
+Action:
+stand
+New successor state:
+('dealer', 5, 0, 6, 0)
+----------------------------------------
+State:
+('dealer', 5, 0, 6, 0)
+Action:
+hit
+New successor state:
+('terminal', 0, False, 0, False)
+('dealer', 5, 0, 8, 0)
+('dealer', 5, 0, 9, 0)
+('dealer', 5, 0, 10, 0)
+('dealer', 5, 0, 11, 0)
+('dealer', 5, 0, 12, 0)
+('dealer', 5, 0, 13, 0)
+('dealer', 5, 0, 14, 0)
+('dealer', 5, 0, 15, 0)
+('dealer', 5, 0, 16, 0)
+----------------------------------------
+State:
+('player', 5, 0, 5, 0)
+Action:
+hit
+New successor state:
+('player', 16, True, 5, 0)
+('player', 7, 0, 5, 0)
+('player', 8, 0, 5, 0)
+('player', 9, 0, 5, 0)
+('player', 10, 0, 5, 0)
+('player', 11, 0, 5, 0)
+('player', 12, 0, 5, 0)
+('player', 13, 0, 5, 0)
+('player', 14, 0, 5, 0)
+('player', 15, 0, 5, 0)
+Action:
+stand
+New successor state:
+('dealer', 5, 0, 5, 0)
+----------------------------------------
+State:
+('dealer', 5, 0, 5, 0)
+Action:
+hit
+New successor state:
+('dealer', 5, 0, 16, True)
+('dealer', 5, 0, 7, 0)
+('dealer', 5, 0, 8, 0)
+('dealer', 5, 0, 9, 0)
+('dealer', 5, 0, 10, 0)
+('dealer', 5, 0, 11, 0)
+('dealer', 5, 0, 12, 0)
+('dealer', 5, 0, 13, 0)
+('dealer', 5, 0, 14, 0)
+('dealer', 5, 0, 15, 0)
+----------------------------------------
+State:
+('player', 5, 0, 4, 0)
+Action:
+hit
+New successor state:
+('player', 16, True, 4, 0)
+('player', 7, 0, 4, 0)
+('player', 8, 0, 4, 0)
+('player', 9, 0, 4, 0)
+('player', 10, 0, 4, 0)
+('player', 11, 0, 4, 0)
+('player', 12, 0, 4, 0)
+('player', 13, 0, 4, 0)
+('player', 14, 0, 4, 0)
+('player', 15, 0, 4, 0)
+Action:
+stand
+New successor state:
+('dealer', 5, 0, 4, 0)
+----------------------------------------
+State:
+('dealer', 5, 0, 4, 0)
+Action:
+hit
+New successor state:
+('dealer', 5, 0, 15, True)
+('dealer', 5, 0, 6, 0)
+('dealer', 5, 0, 7, 0)
+('dealer', 5, 0, 8, 0)
+('dealer', 5, 0, 9, 0)
+('dealer', 5, 0, 10, 0)
+('dealer', 5, 0, 11, 0)
+('dealer', 5, 0, 12, 0)
+('dealer', 5, 0, 13, 0)
+('dealer', 5, 0, 14, 0)
+----------------------------------------
+State:
+('player', 5, 0, 3, 0)
+Action:
+hit
+New successor state:
+('player', 16, True, 3, 0)
+('player', 7, 0, 3, 0)
+('player', 8, 0, 3, 0)
+('player', 9, 0, 3, 0)
+('player', 10, 0, 3, 0)
+('player', 11, 0, 3, 0)
+('player', 12, 0, 3, 0)
+('player', 13, 0, 3, 0)
+('player', 14, 0, 3, 0)
+('player', 15, 0, 3, 0)
+Action:
+stand
+New successor state:
+('dealer', 5, 0, 3, 0)
+----------------------------------------
+State:
+('dealer', 5, 0, 3, 0)
+Action:
+hit
+New successor state:
+('dealer', 5, 0, 14, True)
+('dealer', 5, 0, 5, 0)
+('dealer', 5, 0, 6, 0)
+('dealer', 5, 0, 7, 0)
+('dealer', 5, 0, 8, 0)
+('dealer', 5, 0, 9, 0)
+('dealer', 5, 0, 10, 0)
+('dealer', 5, 0, 11, 0)
+('dealer', 5, 0, 12, 0)
+('dealer', 5, 0, 13, 0)
+----------------------------------------
+State:
+('player', 5, 0, 2, 0)
+Action:
+hit
+New successor state:
+('player', 16, True, 2, 0)
+('player', 7, 0, 2, 0)
+('player', 8, 0, 2, 0)
+('player', 9, 0, 2, 0)
+('player', 10, 0, 2, 0)
+('player', 11, 0, 2, 0)
+('player', 12, 0, 2, 0)
+('player', 13, 0, 2, 0)
+('player', 14, 0, 2, 0)
+('player', 15, 0, 2, 0)
+Action:
+stand
+New successor state:
+('dealer', 5, 0, 2, 0)
+----------------------------------------
+State:
+('dealer', 5, 0, 2, 0)
+Action:
+hit
+New successor state:
+('dealer', 5, 0, 13, True)
+('dealer', 5, 0, 4, 0)
+('dealer', 5, 0, 5, 0)
+('dealer', 5, 0, 6, 0)
+('dealer', 5, 0, 7, 0)
+('dealer', 5, 0, 8, 0)
+('dealer', 5, 0, 9, 0)
+('dealer', 5, 0, 10, 0)
+('dealer', 5, 0, 11, 0)
+('dealer', 5, 0, 12, 0)
+----------------------------------------
+State:
+('player', 4, 0, 11, True)
+Action:
+hit
+New successor state:
+('player', 15, True, 11, True)
+('player', 6, 0, 11, True)
+('player', 7, 0, 11, True)
+('player', 8, 0, 11, True)
+('player', 9, 0, 11, True)
+('player', 10, 0, 11, True)
+('player', 11, 0, 11, True)
+('player', 12, 0, 11, True)
+('player', 13, 0, 11, True)
+('player', 14, 0, 11, True)
+Action:
+stand
+New successor state:
+('dealer', 4, 0, 11, True)
+----------------------------------------
+State:
+('dealer', 4, 0, 11, True)
+Action:
+hit
+New successor state:
+('dealer', 4, 0, 12, True)
+('dealer', 4, 0, 13, True)
+('dealer', 4, 0, 14, True)
+('dealer', 4, 0, 15, True)
+('dealer', 4, 0, 16, True)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('dealer', 4, 0, 16, True)
+Action:
+hit
+New successor state:
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('dealer', 4, 0, 12, False)
+('dealer', 4, 0, 13, False)
+('dealer', 4, 0, 14, False)
+('dealer', 4, 0, 15, False)
+('dealer', 4, 0, 16, False)
+----------------------------------------
+State:
+('dealer', 4, 0, 16, False)
+Action:
+hit
+New successor state:
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('dealer', 4, 0, 15, False)
+Action:
+hit
+New successor state:
+('dealer', 4, 0, 16, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('dealer', 4, 0, 14, False)
+Action:
+hit
+New successor state:
+('dealer', 4, 0, 15, False)
+('dealer', 4, 0, 16, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('dealer', 4, 0, 13, False)
+Action:
+hit
+New successor state:
+('dealer', 4, 0, 14, False)
+('dealer', 4, 0, 15, False)
+('dealer', 4, 0, 16, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('dealer', 4, 0, 12, False)
+Action:
+hit
+New successor state:
+('dealer', 4, 0, 13, False)
+('dealer', 4, 0, 14, False)
+('dealer', 4, 0, 15, False)
+('dealer', 4, 0, 16, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('dealer', 4, 0, 15, True)
+Action:
+hit
+New successor state:
+('dealer', 4, 0, 16, True)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('dealer', 4, 0, 12, False)
+('dealer', 4, 0, 13, False)
+('dealer', 4, 0, 14, False)
+('dealer', 4, 0, 15, False)
+----------------------------------------
+State:
+('dealer', 4, 0, 14, True)
+Action:
+hit
+New successor state:
+('dealer', 4, 0, 15, True)
+('dealer', 4, 0, 16, True)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('dealer', 4, 0, 12, False)
+('dealer', 4, 0, 13, False)
+('dealer', 4, 0, 14, False)
+----------------------------------------
+State:
+('dealer', 4, 0, 13, True)
+Action:
+hit
+New successor state:
+('dealer', 4, 0, 14, True)
+('dealer', 4, 0, 15, True)
+('dealer', 4, 0, 16, True)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('dealer', 4, 0, 12, False)
+('dealer', 4, 0, 13, False)
+----------------------------------------
+State:
+('dealer', 4, 0, 12, True)
+Action:
+hit
+New successor state:
+('dealer', 4, 0, 13, True)
+('dealer', 4, 0, 14, True)
+('dealer', 4, 0, 15, True)
+('dealer', 4, 0, 16, True)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('dealer', 4, 0, 12, False)
+----------------------------------------
+State:
+('player', 4, 0, 10, 0)
+Action:
+hit
+New successor state:
+('player', 15, True, 10, 0)
+('player', 6, 0, 10, 0)
+('player', 7, 0, 10, 0)
+('player', 8, 0, 10, 0)
+('player', 9, 0, 10, 0)
+('player', 10, 0, 10, 0)
+('player', 11, 0, 10, 0)
+('player', 12, 0, 10, 0)
+('player', 13, 0, 10, 0)
+('player', 14, 0, 10, 0)
+Action:
+stand
+New successor state:
+('dealer', 4, 0, 10, 0)
+----------------------------------------
+State:
+('dealer', 4, 0, 10, 0)
+Action:
+hit
+New successor state:
+('terminal', 0, False, 0, False)
+('dealer', 4, 0, 12, 0)
+('dealer', 4, 0, 13, 0)
+('dealer', 4, 0, 14, 0)
+('dealer', 4, 0, 15, 0)
+('dealer', 4, 0, 16, 0)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('player', 4, 0, 9, 0)
+Action:
+hit
+New successor state:
+('player', 15, True, 9, 0)
+('player', 6, 0, 9, 0)
+('player', 7, 0, 9, 0)
+('player', 8, 0, 9, 0)
+('player', 9, 0, 9, 0)
+('player', 10, 0, 9, 0)
+('player', 11, 0, 9, 0)
+('player', 12, 0, 9, 0)
+('player', 13, 0, 9, 0)
+('player', 14, 0, 9, 0)
+Action:
+stand
+New successor state:
+('dealer', 4, 0, 9, 0)
+----------------------------------------
+State:
+('dealer', 4, 0, 9, 0)
+Action:
+hit
+New successor state:
+('terminal', 0, False, 0, False)
+('dealer', 4, 0, 11, 0)
+('dealer', 4, 0, 12, 0)
+('dealer', 4, 0, 13, 0)
+('dealer', 4, 0, 14, 0)
+('dealer', 4, 0, 15, 0)
+('dealer', 4, 0, 16, 0)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('dealer', 4, 0, 11, 0)
+Action:
+hit
+New successor state:
+('dealer', 4, 0, 12, 0)
+('dealer', 4, 0, 13, 0)
+('dealer', 4, 0, 14, 0)
+('dealer', 4, 0, 15, 0)
+('dealer', 4, 0, 16, 0)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('player', 4, 0, 8, 0)
+Action:
+hit
+New successor state:
+('player', 15, True, 8, 0)
+('player', 6, 0, 8, 0)
+('player', 7, 0, 8, 0)
+('player', 8, 0, 8, 0)
+('player', 9, 0, 8, 0)
+('player', 10, 0, 8, 0)
+('player', 11, 0, 8, 0)
+('player', 12, 0, 8, 0)
+('player', 13, 0, 8, 0)
+('player', 14, 0, 8, 0)
+Action:
+stand
+New successor state:
+('dealer', 4, 0, 8, 0)
+----------------------------------------
+State:
+('dealer', 4, 0, 8, 0)
+Action:
+hit
+New successor state:
+('terminal', 0, False, 0, False)
+('dealer', 4, 0, 10, 0)
+('dealer', 4, 0, 11, 0)
+('dealer', 4, 0, 12, 0)
+('dealer', 4, 0, 13, 0)
+('dealer', 4, 0, 14, 0)
+('dealer', 4, 0, 15, 0)
+('dealer', 4, 0, 16, 0)
+('terminal', 0, False, 0, False)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('player', 4, 0, 7, 0)
+Action:
+hit
+New successor state:
+('player', 15, True, 7, 0)
+('player', 6, 0, 7, 0)
+('player', 7, 0, 7, 0)
+('player', 8, 0, 7, 0)
+('player', 9, 0, 7, 0)
+('player', 10, 0, 7, 0)
+('player', 11, 0, 7, 0)
+('player', 12, 0, 7, 0)
+('player', 13, 0, 7, 0)
+('player', 14, 0, 7, 0)
+Action:
+stand
+New successor state:
+('dealer', 4, 0, 7, 0)
+----------------------------------------
+State:
+('dealer', 4, 0, 7, 0)
+Action:
+hit
+New successor state:
+('terminal', 0, False, 0, False)
+('dealer', 4, 0, 9, 0)
+('dealer', 4, 0, 10, 0)
+('dealer', 4, 0, 11, 0)
+('dealer', 4, 0, 12, 0)
+('dealer', 4, 0, 13, 0)
+('dealer', 4, 0, 14, 0)
+('dealer', 4, 0, 15, 0)
+('dealer', 4, 0, 16, 0)
+('terminal', 0, False, 0, False)
+----------------------------------------
+State:
+('player', 4, 0, 6, 0)
+Action:
+hit
+New successor state:
+('player', 15, True, 6, 0)
+('player', 6, 0, 6, 0)
+('player', 7, 0, 6, 0)
+('player', 8, 0, 6, 0)
+('player', 9, 0, 6, 0)
+('player', 10, 0, 6, 0)
+('player', 11, 0, 6, 0)
+('player', 12, 0, 6, 0)
+('player', 13, 0, 6, 0)
+('player', 14, 0, 6, 0)
+Action:
+stand
+New successor state:
+('dealer', 4, 0, 6, 0)
+----------------------------------------
+State:
+('dealer', 4, 0, 6, 0)
+Action:
+hit
+New successor state:
+('terminal', 0, False, 0, False)
+('dealer', 4, 0, 8, 0)
+('dealer', 4, 0, 9, 0)
+('dealer', 4, 0, 10, 0)
+('dealer', 4, 0, 11, 0)
+('dealer', 4, 0, 12, 0)
+('dealer', 4, 0, 13, 0)
+('dealer', 4, 0, 14, 0)
+('dealer', 4, 0, 15, 0)
+('dealer', 4, 0, 16, 0)
+----------------------------------------
+State:
+('player', 4, 0, 5, 0)
+Action:
+hit
+New successor state:
+('player', 15, True, 5, 0)
+('player', 6, 0, 5, 0)
+('player', 7, 0, 5, 0)
+('player', 8, 0, 5, 0)
+('player', 9, 0, 5, 0)
+('player', 10, 0, 5, 0)
+('player', 11, 0, 5, 0)
+('player', 12, 0, 5, 0)
+('player', 13, 0, 5, 0)
+('player', 14, 0, 5, 0)
+Action:
+stand
+New successor state:
+('dealer', 4, 0, 5, 0)
+----------------------------------------
+State:
+('dealer', 4, 0, 5, 0)
+Action:
+hit
+New successor state:
+('dealer', 4, 0, 16, True)
+('dealer', 4, 0, 7, 0)
+('dealer', 4, 0, 8, 0)
+('dealer', 4, 0, 9, 0)
+('dealer', 4, 0, 10, 0)
+('dealer', 4, 0, 11, 0)
+('dealer', 4, 0, 12, 0)
+('dealer', 4, 0, 13, 0)
+('dealer', 4, 0, 14, 0)
+('dealer', 4, 0, 15, 0)
+----------------------------------------
+State:
+('player', 4, 0, 4, 0)
+Action:
+hit
+New successor state:
+('player', 15, True, 4, 0)
+('player', 6, 0, 4, 0)
+('player', 7, 0, 4, 0)
+('player', 8, 0, 4, 0)
+('player', 9, 0, 4, 0)
+('player', 10, 0, 4, 0)
+('player', 11, 0, 4, 0)
+('player', 12, 0, 4, 0)
+('player', 13, 0, 4, 0)
+('player', 14, 0, 4, 0)
+Action:
+stand
+New successor state:
+('dealer', 4, 0, 4, 0)
+----------------------------------------
+State:
+('dealer', 4, 0, 4, 0)
+Action:
+hit
+New successor state:
+('dealer', 4, 0, 15, True)
+('dealer', 4, 0, 6, 0)
+('dealer', 4, 0, 7, 0)
+('dealer', 4, 0, 8, 0)
+('dealer', 4, 0, 9, 0)
+('dealer', 4, 0, 10, 0)
+('dealer', 4, 0, 11, 0)
+('dealer', 4, 0, 12, 0)
+('dealer', 4, 0, 13, 0)
+('dealer', 4, 0, 14, 0)
+----------------------------------------
+State:
+('player', 4, 0, 3, 0)
+Action:
+hit
+New successor state:
+('player', 15, True, 3, 0)
+('player', 6, 0, 3, 0)
+('player', 7, 0, 3, 0)
+('player', 8, 0, 3, 0)
+('player', 9, 0, 3, 0)
+('player', 10, 0, 3, 0)
+('player', 11, 0, 3, 0)
+('player', 12, 0, 3, 0)
+('player', 13, 0, 3, 0)
+('player', 14, 0, 3, 0)
+Action:
+stand
+New successor state:
+('dealer', 4, 0, 3, 0)
+----------------------------------------
+State:
+('dealer', 4, 0, 3, 0)
+Action:
+hit
+New successor state:
+('dealer', 4, 0, 14, True)
+('dealer', 4, 0, 5, 0)
+('dealer', 4, 0, 6, 0)
+('dealer', 4, 0, 7, 0)
+('dealer', 4, 0, 8, 0)
+('dealer', 4, 0, 9, 0)
+('dealer', 4, 0, 10, 0)
+('dealer', 4, 0, 11, 0)
+('dealer', 4, 0, 12, 0)
+('dealer', 4, 0, 13, 0)
+----------------------------------------
+State:
+('player', 4, 0, 2, 0)
+Action:
+hit
+New successor state:
+('player', 15, True, 2, 0)
+('player', 6, 0, 2, 0)
+('player', 7, 0, 2, 0)
+('player', 8, 0, 2, 0)
+('player', 9, 0, 2, 0)
+('player', 10, 0, 2, 0)
+('player', 11, 0, 2, 0)
+('player', 12, 0, 2, 0)
+('player', 13, 0, 2, 0)
+('player', 14, 0, 2, 0)
+Action:
+stand
+New successor state:
+('dealer', 4, 0, 2, 0)
+----------------------------------------
+State:
+('dealer', 4, 0, 2, 0)
+Action:
+hit
+New successor state:
+('dealer', 4, 0, 13, True)
+('dealer', 4, 0, 4, 0)
+('dealer', 4, 0, 5, 0)
+('dealer', 4, 0, 6, 0)
+('dealer', 4, 0, 7, 0)
+('dealer', 4, 0, 8, 0)
+('dealer', 4, 0, 9, 0)
+('dealer', 4, 0, 10, 0)
+('dealer', 4, 0, 11, 0)
+('dealer', 4, 0, 12, 0)
+----------------------------------------
+
